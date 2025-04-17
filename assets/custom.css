@@ -2,3 +2,13 @@
     display: initial;
 }
 .product_upsell_title{display:none;}
+.product_upsell .card-wrapper{
+  margin: 10px 0;
+}
+.product_upsell .card__inner {
+  width: 40%;
+}
+.product_upsell button.quick-add__submit {
+  width: 100%;
+  max-width: 160px;
+}
